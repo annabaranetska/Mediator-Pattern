@@ -1,1 +1,1 @@
-# PJATKprojects
+# Mediator-Pattern
